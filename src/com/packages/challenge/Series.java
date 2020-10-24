@@ -3,7 +3,11 @@ package com.packages.challenge;
 /*
  *  will create a jar of this class and test it out by importing it in new project as external library
  *
- *  before creating the jar file make sure the class with the main method should not be present in the folder.
+ *  before creating the jar file make sure the class with the main method should not be present in the entire
+ *  project.
+ *
+ *  when you create a jar file it takes the project name to create a jar file of that name,
+ *  if you want you can rename the jar while configuring.
  *
  */
 public class Series {
