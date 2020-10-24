@@ -28,6 +28,11 @@ package com.packages;
  *  double etc and all the fundamental building blocks of a Java program.
  *  So that happens automatically when you create even the most basic Java programs
  *  Now you will actually not see an import for java.lang because it's automatically imported for us.
+ *
+ *  if you see these two packages for example in the code java.awt.* and java.import.event.WindowAdapter
+ *  the second one cannot be removed just because java.awt.* means import all, if you remove you will get an error
+ *  so basically the second one is different package and if you want you can type it as java.awt.event.* asking to
+ *  import all the classes.
  */
 
 public class Package{

@@ -1,0 +1,8 @@
+you can specify a package name as part of the class name
+when you are actually creating a new class.
+
+select the folder under which you want to create the folder structure else it will create the folder structure
+under the current selected folder.
+for e.g. com.example.game
+this will create a folder com --> under it example folder --> under it, it will create a game.java file.
+
