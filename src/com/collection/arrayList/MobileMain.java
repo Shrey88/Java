@@ -2,7 +2,6 @@ package com.collection.arrayList;
 
 import com.oops.polymorphism.Movie;
 
-import java.lang.invoke.ConstantBootstraps;
 import java.util.Scanner;
 
 public class MobileMain {
@@ -45,6 +44,10 @@ public class MobileMain {
                     }else{
                         System.out.println("Not Available in Contacts");
                     }
+                    break;
+                case 5:
+                    quit = true;
+                    break;
             }
         }
     }

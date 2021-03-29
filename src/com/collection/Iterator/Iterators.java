@@ -39,7 +39,7 @@ public class Iterators {
 
         System.out.println(al);
 
-        // at beginning itr cursor will point to
+        // at beginning its cursor will point to
         // index just before the first element in al
         Iterator itr = al.iterator();
 
